@@ -2,6 +2,10 @@
 
 Fault-tolerant telemetry collection and smart lamp control system using Apache Kafka multi-broker cluster.
 
+## Demo Video
+
+📹 [Watch Demo](https://drive.google.com/file/d/1aOekRsIsWNTziw2Vgu_XgXuCa9M8ql6C/view?usp=sharing)
+
 ## Quick Start
 
 ```bash
